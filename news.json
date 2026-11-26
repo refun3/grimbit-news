@@ -5,5 +5,17 @@
   "message_id": "fox-1",
   "title": "TREASURE FOXES",
   "message": "New in 1.4.0: Treasure Foxes now dash through every stage. Tap one before it escapes for gold, shards and gear. Bronze, Silver, Gold, Diamond and the ultra-rare Rainbow fox each drop their own Fox Card. Also new: skill icons for every hero, portals and torches in battle, redeem codes in Settings and the Soul Scavenger upgrade that finds gear while you're offline. Join our Discord for codes and news. Good luck finding the rainbow one!",
-  "discord": "https://discord.gg/GvFgmbXvnq"
+  "discord": "https://discord.gg/GvFgmbXvnq",
+  "codes": [
+    {
+      "hash": "e90bebe52d2251b7f2c0b4465ab00d01d5c920f630a47e34c671b00b9069a803",
+      "_name": "FOXHUNT (1.4.0 launch)",
+      "expires": 1797465599,
+      "reward": {
+        "gold_seconds": 7200,
+        "shards": 50,
+        "essence": 10
+      }
+    }
+  ]
 }
