@@ -16,6 +16,15 @@
         "shards": 50,
         "essence": 10
       }
+    },
+    {
+      "hash": "aa126c1635de523f69de3df3d4769de274702692ba9e7d7c6ebb0d04696811d8",
+      "_name": "personal thank-you",
+      "expires": 1796342399,
+      "reward": {
+        "item": 3,
+        "shards": 100
+      }
     }
   ]
 }
