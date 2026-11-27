@@ -1,30 +1,30 @@
 {
-  "latest_build": 19,
-  "latest_name": "1.4.0",
-  "update_text": "Treasure Foxes are here! Catch 5 rarities of fox for loot and Fox Cards. Update now!",
-  "message_id": "fox-1",
-  "title": "TREASURE FOXES",
-  "message": "New in 1.4.0: Treasure Foxes now dash through every stage. Tap one before it escapes for gold, shards and gear. Bronze, Silver, Gold, Diamond and the ultra-rare Rainbow fox each drop their own Fox Card. Also new: skill icons for every hero, portals and torches in battle, redeem codes in Settings and the Soul Scavenger upgrade that finds gear while you're offline. Join our Discord for codes and news. Good luck finding the rainbow one!",
-  "discord": "https://discord.gg/GvFgmbXvnq",
-  "codes": [
-    {
-      "hash": "e90bebe52d2251b7f2c0b4465ab00d01d5c920f630a47e34c671b00b9069a803",
-      "_name": "FOXHUNT (1.4.0 launch)",
-      "expires": 1797465599,
-      "reward": {
-        "gold_seconds": 7200,
-        "shards": 50,
-        "essence": 10
-      }
-    },
-    {
-      "hash": "aa126c1635de523f69de3df3d4769de274702692ba9e7d7c6ebb0d04696811d8",
-      "_name": "personal thank-you",
-      "expires": 1796342399,
-      "reward": {
-        "item": 3,
-        "shards": 100
-      }
-    }
-  ]
+ "latest_build": 20,
+ "latest_name": "1.4.1",
+ "update_text": "The Gunslinger is reborn! New look, new skins and a smaller download. Update now!",
+ "message_id": "gunslinger-1",
+ "title": "GUNSLINGER REBORN",
+ "message": "New in 1.4.1: the Gunslinger has been completely redrawn as a hooded jetpack ranger who aims at whatever he's shooting. Glitch Samurai is easier to see, with glitch effects on his slashes, teleports and ult. Two new skins in the store: Blazing Inferno for the Blood King and Neon Ronin for Glitch Samurai. Your equipped skin now shows at camp, and the download is about 37 MB smaller. Join our Discord for codes and news!",
+ "discord": "https://discord.gg/GvFgmbXvnq",
+ "codes": [
+  {
+   "hash": "e90bebe52d2251b7f2c0b4465ab00d01d5c920f630a47e34c671b00b9069a803",
+   "_name": "FOXHUNT (1.4.0 launch)",
+   "expires": 1797465599,
+   "reward": {
+    "gold_seconds": 7200,
+    "shards": 50,
+    "essence": 10
+   }
+  },
+  {
+   "hash": "aa126c1635de523f69de3df3d4769de274702692ba9e7d7c6ebb0d04696811d8",
+   "_name": "personal thank-you",
+   "expires": 1796342399,
+   "reward": {
+    "item": 3,
+    "shards": 100
+   }
+  }
+ ]
 }
